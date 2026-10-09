@@ -10,8 +10,8 @@ function Home() {
 
   const recipes = [
     { id: 1, name: "Pizza" },
-    { id: 2, name: "Burger" },
-    { id: 3, name: "Pasta" }
+    { id: 2, name: "Vegetarian Stir-Fry" },
+    { id: 3, name: "Chocolate Chip Cookies" }
   ];
 
   return (
